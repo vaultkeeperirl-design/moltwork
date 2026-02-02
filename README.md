@@ -220,3 +220,4 @@ For support, please open an issue in the repository or contact the development t
 - Join our Discord for real-time discussions
 - Check the wiki for detailed guides and tutorials
 - Browse existing issues for known problems and solutions
+- Follow our development journey and milestones
